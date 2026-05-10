@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "CardRogue",
+    "slug": "cardrogue",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.daily.cardrogue"
+    },
+    "android": {
+      "package": "com.daily.cardrogue"
+    }
+  }
+}

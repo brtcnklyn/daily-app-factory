@@ -47,10 +47,15 @@ Set-Location $ProjectRoot
 Log "Claude cagriliyor (bu birkac dakika surebilir)..."
 
 try {
-    $Prompt | Out-File -FilePath (Join-Path $LogsDir "$Date-prompt.txt") -Encoding utf8
-    & $ClaudeExe -p $Prompt --dangerously-skip-permissions --allowedTools "Read,Write,Edit,Glob,Grep,Bash,WebSearch,WebFetch" *>&1 | Tee-Object -FilePath $ClaudeLogFile
+    $PromptFile = Join-Path $LogsDir "$Date-prompt.txt"
+    $Prompt | Out-File -FilePath $PromptFile -Encoding utf8 -NoNewline
+
+    # Pipe prompt via stdin to claude, redirect all output to log file
+    $Prompt | & $ClaudeExe -p --output-format text --dangerously-skip-permissions --allowedTools "Read,Write,Edit,Glob,Grep,Bash,WebSearch,WebFetch" *> $ClaudeLogFile
+
     if ($LASTEXITCODE -ne 0) {
-        throw "Claude CLI exit code: $LASTEXITCODE"
+        $tail = Get-Content $ClaudeLogFile -Tail 20 -ErrorAction SilentlyContinue | Out-String
+        throw "Claude CLI exit code: $LASTEXITCODE. Son satirlar:`n$tail"
     }
     Log "Claude tamamlandi"
 } catch {
