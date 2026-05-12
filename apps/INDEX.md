@@ -8,3 +8,8 @@ Her gün üretilen uygulamaların listesi.
 **Konsept:** Rastgele gelen kartlarla zindanda ilerleyen turn-based roguelike kart savaş oyunu
 **İlham:** Gambonanza (chess roguelike, Balatro tarzı) — Mayıs 2026 viral trend
 **Klasör:** ./2026-05-10-cardrogue/
+
+## 2026-05-12 — MoodPet
+**Konsept:** Günlük alışkanlıklarını tamamladıkça büyüyen ve mutlulanan sanal evcil hayvan uygulaması
+**İlham:** Finch: Self-Care Pet — Google Play Mayıs 2026 trending listesi
+**Klasör:** ./2026-05-12-moodpet/
