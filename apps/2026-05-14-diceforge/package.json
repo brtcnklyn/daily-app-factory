@@ -1,5 +1,5 @@
 {
-  "name": "moodpet",
+  "name": "diceforge",
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
@@ -10,10 +10,7 @@
   },
   "dependencies": {
     "@expo/metro-runtime": "~4.0.1",
-    "@react-navigation/bottom-tabs": "^6.6.1",
-    "@react-navigation/native": "^6.1.18",
     "expo": "~52.0.0",
-    "expo-asset": "~11.0.5",
     "expo-status-bar": "~2.0.0",
     "react": "18.3.1",
     "react-dom": "18.3.1",

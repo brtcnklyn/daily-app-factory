@@ -1,32 +1,30 @@
 {
   "expo": {
-    "name": "MoodPet",
-    "slug": "moodpet",
+    "name": "DiceForge",
+    "slug": "diceforge",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
+    "userInterfaceStyle": "dark",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#F5F3FF"
+      "backgroundColor": "#1a1a2e"
     },
     "ios": {
       "supportsTablet": false,
-      "bundleIdentifier": "com.moodpet.app"
+      "bundleIdentifier": "com.diceforge.app"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#F5F3FF"
+        "backgroundColor": "#1a1a2e"
       },
-      "package": "com.moodpet.app"
+      "package": "com.diceforge.app"
     },
     "web": {
-      "favicon": "./assets/favicon.png"
-    },
-    "plugins": [
-      "expo-asset"
-    ]
+      "favicon": "./assets/favicon.png",
+      "bundler": "metro"
+    }
   }
 }
