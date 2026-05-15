@@ -18,3 +18,8 @@ Her gün üretilen uygulamaların listesi.
 **Konsept:** 5 zar at, Yahtzee tarzı combo yap, turn-based düşman dövüşü yap — zar roguelike
 **İlham:** Gambonanza (Balatro tarzı roguelike, Mayıs 2026 en hızlı yükselen indie oyun trendi)
 **Klasör:** ./2026-05-14-diceforge/
+
+## 2026-05-15 — DungeonSlide
+**Konsept:** Kaydır hareketi ile 5×5 zindanda altın topla, düşmanlardan kaç — swipe roguelike
+**İlham:** RogueSlide (Pocket Gamer 14 Mayıs 2026 haftanın oyunu, tile-sliding dungeon trendi)
+**Klasör:** ./2026-05-15-dungeonslide/

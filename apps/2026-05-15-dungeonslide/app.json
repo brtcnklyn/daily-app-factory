@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "DungeonSlide",
+    "slug": "dungeonslide",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.brtcnklyn.dungeonslide"
+    },
+    "android": {
+      "package": "com.brtcnklyn.dungeonslide",
+      "adaptiveIcon": {
+        "backgroundColor": "#0d0d1a"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
