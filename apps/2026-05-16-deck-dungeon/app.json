@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "DeckDungeon",
+    "slug": "deck-dungeon",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#1a0a2e"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.daily.deckdungeon"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#1a0a2e"
+      },
+      "package": "com.daily.deckdungeon"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}

@@ -23,3 +23,8 @@ Her gün üretilen uygulamaların listesi.
 **Konsept:** Kaydır hareketi ile 5×5 zindanda altın topla, düşmanlardan kaç — swipe roguelike
 **İlham:** RogueSlide (Pocket Gamer 14 Mayıs 2026 haftanın oyunu, tile-sliding dungeon trendi)
 **Klasör:** ./2026-05-15-dungeonslide/
+
+## 2026-05-16 — DeckDungeon
+**Konsept:** 4 kartlık elden saldır/kalkan/iyileştir seçerek 6 katlı zindanı temizle — roguelike kart savaşı
+**İlham:** Gambonanza ve Balatro (Mayıs 2026 en viral kart roguelike trendi, Play Store trending)
+**Klasör:** ./2026-05-16-deck-dungeon/
