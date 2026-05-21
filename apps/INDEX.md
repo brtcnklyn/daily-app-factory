@@ -28,3 +28,8 @@ Her gün üretilen uygulamaların listesi.
 **Konsept:** 4 kartlık elden saldır/kalkan/iyileştir seçerek 6 katlı zindanı temizle — roguelike kart savaşı
 **İlham:** Gambonanza ve Balatro (Mayıs 2026 en viral kart roguelike trendi, Play Store trending)
 **Klasör:** ./2026-05-16-deck-dungeon/
+
+## 2026-05-21 — Merge & Bloom
+**Konsept:** 5×5 ızgarada bitkileri birleştir, daha nadir türler keşfet, skor topla — cosy merge oyunu
+**İlham:** Cats & Soup: Magic Recipe (Mayıs 2026 en hızlı yükselen merge/cosy oyun, Google Play trending)
+**Klasör:** ./2026-05-21-merge-bloom/

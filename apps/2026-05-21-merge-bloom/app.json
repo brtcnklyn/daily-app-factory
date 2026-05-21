@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "Merge & Bloom",
+    "slug": "merge-bloom",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#f0fff4"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.mergebloom.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#f0fff4"
+      },
+      "package": "com.mergebloom.app"
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
