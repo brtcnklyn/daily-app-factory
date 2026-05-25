@@ -33,3 +33,8 @@ Her gün üretilen uygulamaların listesi.
 **Konsept:** 5×5 ızgarada bitkileri birleştir, daha nadir türler keşfet, skor topla — cosy merge oyunu
 **İlham:** Cats & Soup: Magic Recipe (Mayıs 2026 en hızlı yükselen merge/cosy oyun, Google Play trending)
 **Klasör:** ./2026-05-21-merge-bloom/
+
+## 2026-05-25 — AuraVibe
+**Konsept:** 3 hızlı soruyla günlük auranı keşfet — enerji, duygu ve bağlantı durumuna göre renk + kişilik tanımı al
+**İlham:** TikTok "aura color" viral trendi + Spirit Crossing (Netflix, mood/bağlantı teması) + MindHealth wellness trendi
+**Klasör:** ./2026-05-25-auravibe/
