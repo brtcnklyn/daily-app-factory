@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Spirit Buddy",
+    "slug": "spirit-buddy",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#6C3CE1"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.spiritbuddy.app",
+      "adaptiveIcon": {
+        "backgroundColor": "#6C3CE1"
+      }
+    }
+  }
+}

@@ -38,3 +38,8 @@ Her gün üretilen uygulamaların listesi.
 **Konsept:** 3 hızlı soruyla günlük auranı keşfet — enerji, duygu ve bağlantı durumuna göre renk + kişilik tanımı al
 **İlham:** TikTok "aura color" viral trendi + Spirit Crossing (Netflix, mood/bağlantı teması) + MindHealth wellness trendi
 **Klasör:** ./2026-05-25-auravibe/
+
+## 2026-05-27 — Spirit Buddy
+**Konsept:** Günlük mood check-in'leriyle beslenen ve 6 farklı forma evrilen sanal ruh arkadaşı
+**İlham:** Netflix Spirit Crossing (Mayıs 2026 bu haftanın viral oyunu) + ChatGPT/AI wellness uygulaması trendi
+**Klasör:** ./2026-05-27-spirit-buddy/
