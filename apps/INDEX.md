@@ -43,3 +43,8 @@ Her gün üretilen uygulamaların listesi.
 **Konsept:** Günlük mood check-in'leriyle beslenen ve 6 farklı forma evrilen sanal ruh arkadaşı
 **İlham:** Netflix Spirit Crossing (Mayıs 2026 bu haftanın viral oyunu) + ChatGPT/AI wellness uygulaması trendi
 **Klasör:** ./2026-05-27-spirit-buddy/
+
+## 2026-05-28 — TypeRush
+**Konsept:** Günlük değişen metni olabildiğince hızlı yaz, WPM skorunu takip et, zincirini kırma
+**İlham:** ChatGPT 55.9M indirme ile 2026 zirvesi — AI/üretkenlik dalgası + paylaşılabilir skor viral mekanik
+**Klasör:** ./2026-05-28-typerush/
