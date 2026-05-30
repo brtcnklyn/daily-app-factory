@@ -48,3 +48,8 @@ Her gün üretilen uygulamaların listesi.
 **Konsept:** Günlük değişen metni olabildiğince hızlı yaz, WPM skorunu takip et, zincirini kırma
 **İlham:** ChatGPT 55.9M indirme ile 2026 zirvesi — AI/üretkenlik dalgası + paylaşılabilir skor viral mekanik
 **Klasör:** ./2026-05-28-typerush/
+
+## 2026-05-30 — NameForge
+**Konsept:** Adını gir, deterministik algoritmaya göre benzersiz fantasy savaşçı kartını oluştur — sınıf, istatistikler ve özel yetenek tamamen ismine özgü
+**İlham:** WamojiSword (Pocket Gamer 28 Mayıs 2026 haftanın oyunu) — isim → karakter mekanikği viral trendi
+**Klasör:** ./2026-05-30-nameforge/
