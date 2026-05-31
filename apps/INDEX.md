@@ -53,3 +53,8 @@ Her gün üretilen uygulamaların listesi.
 **Konsept:** Adını gir, deterministik algoritmaya göre benzersiz fantasy savaşçı kartını oluştur — sınıf, istatistikler ve özel yetenek tamamen ismine özgü
 **İlham:** WamojiSword (Pocket Gamer 28 Mayıs 2026 haftanın oyunu) — isim → karakter mekanikği viral trendi
 **Klasör:** ./2026-05-30-nameforge/
+
+## 2026-05-31 — BrainBurst
+**Konsept:** 60 saniyede 10 rastgele trivia sorusunu yanıtla, günlük serisini koru ve kişisel rekoru geliştir
+**İlham:** ChatGPT #1 uygulama (55.9M indirme) — AI/bilgi trendi + paylaşılabilir skor viral mekaniği
+**Klasör:** ./2026-05-31-brainburst/
