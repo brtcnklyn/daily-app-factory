@@ -58,3 +58,8 @@ Her gün üretilen uygulamaların listesi.
 **Konsept:** 60 saniyede 10 rastgele trivia sorusunu yanıtla, günlük serisini koru ve kişisel rekoru geliştir
 **İlham:** ChatGPT #1 uygulama (55.9M indirme) — AI/bilgi trendi + paylaşılabilir skor viral mekaniği
 **Klasör:** ./2026-05-31-brainburst/
+
+## 2026-06-01 — Aura Points
+**Konsept:** Günlük olayları logla (spor, gece pizzası, doomscroll), aura puanı kazan ve liderboard'da yarış
+**İlham:** Gen Z "aura" kültürü viral trendi + ChatGPT/TikTok 2026 dominasyonu — sosyal gamification mekanikği
+**Klasör:** ./2026-06-01-aura-points/
