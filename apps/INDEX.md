@@ -63,3 +63,8 @@ Her gün üretilen uygulamaların listesi.
 **Konsept:** Günlük olayları logla (spor, gece pizzası, doomscroll), aura puanı kazan ve liderboard'da yarış
 **İlham:** Gen Z "aura" kültürü viral trendi + ChatGPT/TikTok 2026 dominasyonu — sosyal gamification mekanikği
 **Klasör:** ./2026-06-01-aura-points/
+
+## 2026-06-02 — DailyVibes
+**Konsept:** Ruh halini seç, kişiselleştirilmiş vibe okuması al, afirmasyon + günlük görev kazan, streak tut
+**İlham:** ChatGPT #1 uygulama (55.9M indirme, Ocak 2026) — AI kişiselleştirme + günlük alışkanlık + viral paylaşım trendi
+**Klasör:** ./2026-06-02-daily-vibes/
