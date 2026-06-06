@@ -68,3 +68,8 @@ Her gün üretilen uygulamaların listesi.
 **Konsept:** Ruh halini seç, kişiselleştirilmiş vibe okuması al, afirmasyon + günlük görev kazan, streak tut
 **İlham:** ChatGPT #1 uygulama (55.9M indirme, Ocak 2026) — AI kişiselleştirme + günlük alışkanlık + viral paylaşım trendi
 **Klasör:** ./2026-06-02-daily-vibes/
+
+## 2026-06-06 — PerfectTap
+**Konsept:** Genişleyen halka tam hedef halkaya denk geldiğinde dokun — 10 turda hassas zamanlamanı test et ve skoru paylaş
+**İlham:** Geometry Dash (Google Play top 5, Haziran 2026) + Sonic Rumble (battle royale trend) — precision/timing oyun trendi
+**Klasör:** ./2026-06-06-perfecttap/

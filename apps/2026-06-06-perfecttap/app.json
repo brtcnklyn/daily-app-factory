@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "PerfectTap",
+    "slug": "perfecttap",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.perfecttap.app"
+    },
+    "android": {
+      "package": "com.perfecttap.app"
+    },
+    "web": {}
+  }
+}
