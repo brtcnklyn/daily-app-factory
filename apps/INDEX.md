@@ -73,3 +73,8 @@ Her gün üretilen uygulamaların listesi.
 **Konsept:** Genişleyen halka tam hedef halkaya denk geldiğinde dokun — 10 turda hassas zamanlamanı test et ve skoru paylaş
 **İlham:** Geometry Dash (Google Play top 5, Haziran 2026) + Sonic Rumble (battle royale trend) — precision/timing oyun trendi
 **Klasör:** ./2026-06-06-perfecttap/
+
+## 2026-06-07 — NameBlade
+**Konsept:** İsmini gir, her harf savaş istatistiklerine dönüşür — turn-based düşman dövüşü yap, Leaderboard'a gir
+**İlham:** WamojiSword (Haziran 2026 bu haftanın viral oyunu, Pocket Gamer) — isim → silah mekanikği
+**Klasör:** ./2026-06-07-nameblade/
