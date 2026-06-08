@@ -78,3 +78,8 @@ Her gün üretilen uygulamaların listesi.
 **Konsept:** İsmini gir, her harf savaş istatistiklerine dönüşür — turn-based düşman dövüşü yap, Leaderboard'a gir
 **İlham:** WamojiSword (Haziran 2026 bu haftanın viral oyunu, Pocket Gamer) — isim → silah mekanikği
 **Klasör:** ./2026-06-07-nameblade/
+
+## 2026-06-08 — Neon Dodge
+**Konsept:** 3 şeritli neon arkaplanda düşen engelleri ◀ ▶ ile kaçın, ne kadar uzun hayatta kalırsın?
+**İlham:** Sonic Rumble (Haziran 2026 viral arcade, hızlı tempo) + Fruit Ninja Adventures (artan zorluk mekanikği)
+**Klasör:** ./2026-06-08-neon-dodge/

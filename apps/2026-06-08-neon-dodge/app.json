@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Neon Dodge",
+    "slug": "neon-dodge",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#0a0a1a",
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.neondodge.app"
+    },
+    "android": {
+      "package": "com.neondodge.app"
+    }
+  }
+}
