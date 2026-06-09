@@ -83,3 +83,8 @@ Her gün üretilen uygulamaların listesi.
 **Konsept:** 3 şeritli neon arkaplanda düşen engelleri ◀ ▶ ile kaçın, ne kadar uzun hayatta kalırsın?
 **İlham:** Sonic Rumble (Haziran 2026 viral arcade, hızlı tempo) + Fruit Ninja Adventures (artan zorluk mekanikği)
 **Klasör:** ./2026-06-08-neon-dodge/
+
+## 2026-06-09 — DungeonTap
+**Konsept:** Kart seç, canavara saldır, katlara ilerle — roguelike kart oyunu
+**İlham:** God Rivals: RPG Roguelike (Haziran 2026 Google Play trendi)
+**Klasör:** ./2026-06-09-dungeon-tap/
