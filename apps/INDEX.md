@@ -88,3 +88,8 @@ Her gün üretilen uygulamaların listesi.
 **Konsept:** Kart seç, canavara saldır, katlara ilerle — roguelike kart oyunu
 **İlham:** God Rivals: RPG Roguelike (Haziran 2026 Google Play trendi)
 **Klasör:** ./2026-06-09-dungeon-tap/
+
+## 2026-06-10 — Mind Sprint
+**Konsept:** 10 matematik sorusunu 5'er saniyelik süre sınırıyla yanıtla, hız bonusuyla max 1500 puan topla, günlük serisini koru
+**İlham:** ChatGPT #1 uygulama (55.9M indirme) — AI/brain training trendi + Wordle tarzı günlük paylaşılabilir skor viral mekaniği
+**Klasör:** ./2026-06-10-mind-sprint/

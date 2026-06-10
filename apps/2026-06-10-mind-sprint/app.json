@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "Mind Sprint",
+    "slug": "mind-sprint",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.mindsprintapp.mobile"
+    },
+    "android": {
+      "package": "com.mindsprintapp.mobile",
+      "adaptiveIcon": {
+        "backgroundColor": "#0A0A1A"
+      }
+    },
+    "web": {}
+  }
+}
