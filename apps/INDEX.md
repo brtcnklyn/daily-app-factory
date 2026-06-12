@@ -93,3 +93,8 @@ Her gün üretilen uygulamaların listesi.
 **Konsept:** 10 matematik sorusunu 5'er saniyelik süre sınırıyla yanıtla, hız bonusuyla max 1500 puan topla, günlük serisini koru
 **İlham:** ChatGPT #1 uygulama (55.9M indirme) — AI/brain training trendi + Wordle tarzı günlük paylaşılabilir skor viral mekaniği
 **Klasör:** ./2026-06-10-mind-sprint/
+
+## 2026-06-12 — AuraPoints
+**Konsept:** Her gün 0–100 arası aura skoru gir, vibe etiketleri seç, Duolingo tarzı streak kur ve istatistiklerini takip et
+**İlham:** ChatGPT (#1 uygulama, 55.9M indirme) + Duolingo streak mekanikği + Gen-Z "aura" kültürü viral trendi
+**Klasör:** ./2026-06-12-aura-points/

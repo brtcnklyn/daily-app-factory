@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "AuraPoints",
+    "slug": "aura-points",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "backgroundColor": "#0D0D1A"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.dailyapps.aurapoints"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0D0D1A"
+      },
+      "package": "com.dailyapps.aurapoints"
+    },
+    "web": {}
+  }
+}
