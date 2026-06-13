@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "VibeCheck",
+    "slug": "vibecheck",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.vibecheck.app"
+    },
+    "android": {
+      "package": "com.vibecheck.app",
+      "adaptiveIcon": {
+        "backgroundColor": "#6C63FF"
+      }
+    },
+    "web": {}
+  }
+}

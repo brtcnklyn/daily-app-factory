@@ -98,3 +98,8 @@ Her gün üretilen uygulamaların listesi.
 **Konsept:** Her gün 0–100 arası aura skoru gir, vibe etiketleri seç, Duolingo tarzı streak kur ve istatistiklerini takip et
 **İlham:** ChatGPT (#1 uygulama, 55.9M indirme) + Duolingo streak mekanikği + Gen-Z "aura" kültürü viral trendi
 **Klasör:** ./2026-06-12-aura-points/
+
+## 2026-06-13 — VibeCheck
+**Konsept:** Günlük ruh halini seç, mood'una özel kısa wellness challenge al, stopwatch ile tamamla ve paylaş
+**İlham:** ChatGPT #1 trend (55.9M indirme) + AI wellness + CapCut/TikTok sosyal paylaşım — günlük alışkanlık + viral share mekanikği
+**Klasör:** ./2026-06-13-vibecheck/
