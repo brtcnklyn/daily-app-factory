@@ -103,3 +103,8 @@ Her gün üretilen uygulamaların listesi.
 **Konsept:** Günlük ruh halini seç, mood'una özel kısa wellness challenge al, stopwatch ile tamamla ve paylaş
 **İlham:** ChatGPT #1 trend (55.9M indirme) + AI wellness + CapCut/TikTok sosyal paylaşım — günlük alışkanlık + viral share mekanikği
 **Klasör:** ./2026-06-13-vibecheck/
+
+## 2026-06-14 — FitFlash
+**Konsept:** Her gün rastgele 4 vücut ağırlığı egzersizi al, tamamla, streakini büyüt — ekipmansız 60 saniyelik antrenman
+**İlham:** Google Play fitness kategorisi büyümesi + "don't break the chain" streak psikolojisi (Duolingo / Wordle tarzı günlük alışkanlık)
+**Klasör:** ./2026-06-14-fitflash/
